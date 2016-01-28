@@ -1,0 +1,3 @@
+[submodule "caldavzap"]
+	path = caldavzap
+	url = https://github.com/cloudfleet/caldavzap.git
