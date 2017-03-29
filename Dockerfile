@@ -3,7 +3,7 @@
 # VERSION 0.1
 #
 
-FROM nginx
+FROM library/nginx
 
 RUN mkdir -p /usr/share/nginx/html
 WORKDIR /usr/share/nginx/html
